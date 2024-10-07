@@ -1,17 +1,17 @@
 {
-    "usr1":{
+    "emp1":{
         "username":"username",
         "password":"password"
     },
-    "usr2":{
+    "emp2":{
         "username":"sphaghetti",
         "password":"meatballs"
     },
-    "usr3":{
+    "emp3":{
         "username":"Toronto",
         "password":"Canada"
     },
-    "usr4":{
+    "emp4":{
         "username":"hello",
         "password":"goodbye"
     }
